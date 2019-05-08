@@ -40,10 +40,12 @@ A wholesale distributor recently tested a change to their delivery method for so
 This project uses the following software and Python libraries:
 
 - ![Python](https://www.python.org/downloads/release/python-364/)
-    NumPy
-    pandas
-    scikit-learn (v0.17)
-    matplotlib
+- [Python](https://www.python.org/downloads/release/python-364/)
+[external link](http://google.com)
+-    NumPy
+-    pandas
+-    scikit-learn (v0.17)
+-    matplotlib
 
 You will also need to have software installed to run and execute a Jupyter Notebook.
 
